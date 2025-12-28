@@ -4,6 +4,7 @@ jobs:
     steps:
       - echo "Hello"
       - ls
+      - ls
   world:
     steps:
       - echo "World"
