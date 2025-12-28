@@ -3,6 +3,7 @@ jobs:
   hello:
     steps:
       - echo "Hello"
+      - ls
   world:
     steps:
       - echo "World"
